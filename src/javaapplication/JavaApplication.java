@@ -24,4 +24,4 @@ public class JavaApplication {
         System.out.println("Ime casopisa je " + imeCasopisa);                                
     }
     
-}//ab
+}//abc
