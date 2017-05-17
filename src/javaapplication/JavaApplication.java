@@ -1,0 +1,27 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package javaapplication;
+
+/**
+ *
+ * @author ogypo
+ */
+public class JavaApplication {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        int x=5;
+        int broj = 1;
+        String imeCasopisa = "Svet kompjutera";
+        
+        System.out.println("Zbir brojeva je " + (x + broj));
+        System.out.println("Ime casopisa je " + imeCasopisa);                                
+    }
+    
+}
